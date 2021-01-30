@@ -11,4 +11,4 @@ O controle das tarefas desse projeto será realizado no GitHub
 -  :package: nova funcionalidade
 -  :up:  atualização
 -  :beetle:  correção de bug
--  :checkered_flag:  lançamento
+-  :checkered_flag:  release
